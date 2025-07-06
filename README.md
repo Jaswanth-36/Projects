@@ -1,1 +1,1 @@
-Generate README for ShopSmart
+
